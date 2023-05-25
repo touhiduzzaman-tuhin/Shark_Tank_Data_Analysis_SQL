@@ -1,0 +1,22 @@
+-- fetch all the data from the data table
+-- find total episodes
+-- find total brand attend the show 
+-- find total brand who are find investor and total no of brand apply for investment
+-- find the success rate of finding apply in shark tank
+-- find total number of male participent
+-- find total number of female participent
+-- find the gender ratio rate from the dataset
+-- find total invested amount
+-- find avg equity taken
+-- find the highest deal taken from shark 
+-- find higheest equity taken by shark
+-- find the startups that having at least one women
+-- find the startups that having at least one women who got finding
+-- find avg team members from the dataset
+-- find the average amount invested per deal
+-- find the avg age group of contestants that group attend most in the event
+-- find location group of contestants that group find most on the table
+-- find sector group of contestants that group find most on the table
+-- find the partners details, how many times they deal together
+-- find the total episode present, total deal happen, total amount invested, average equity taken percentage by each shark
+-- which is the startup in which the highest amount has been invested in each domain/sector
